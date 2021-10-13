@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Política de Privacidad
 
-You can use the [editor on GitHub](https://github.com/AldoMartinez/LoteriaApp-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esta página le informa sobre nuestras políticas con respecto a la recopilación, uso y divulgación de datos personales cuando utiliza Baraja Divertida Lotería y las opciones que ha asociado con esos datos. Usamos sus datos para proporcionar y mejorar Baraja Divertida Lotería. Al utilizar Baraja Divertida Lotería, acepta la recopilación y el uso de información de acuerdo con esta política.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Recopilación y uso de información
 
-### Markdown
+Nuestra principal prioridad es la seguridad de los datos del cliente y, como tal, ejercemos la política de no registros. Podemos procesar solo datos mínimos del usuario, solo la cantidad que sea absolutamente necesaria para mantener la Aplicación o los Servicios Móviles. La información recopilada automáticamente se usa solo para identificar posibles casos de abuso y establecer información estadística sobre el tráfico y el uso de la aplicación móvil. Esta información estadística no se agrega de otra manera de tal manera que identifique a cualquier usuario particular del sistema.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Seguridad
 
-# Header 1
-## Header 2
-### Header 3
+Baraja Divertida Lotería valora su confianza al proporcionarnos su información personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Protegemos la información que proporciona en los servidores de la computadora en un entorno controlado y seguro, protegido contra el acceso, uso o divulgación no autorizados. Mantenemos salvaguardas administrativas, técnicas y físicas razonables en un esfuerzo por proteger contra el acceso no autorizado, uso, modificación y divulgación de información personal bajo su control y custodia. Pero recuerde que ningún método de transmisión a través de Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su absoluta seguridad.
 
-- Bulleted
-- List
+### Cambios a esta política de privacidad
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AldoMartinez/LoteriaApp-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Le notificaremos de cualquier cambio publicando la nueva Política de privacidad en esta página. Se le recomienda que revise esta Política de privacidad periódicamente para ver si hay cambios. Los cambios a esta Política de privacidad entran en vigencia cuando se publican en esta página.
